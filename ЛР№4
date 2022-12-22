@@ -55,3 +55,8 @@ def  fun4(dictionary):
 fun4(uslov4)
 print()
 
+
+
+#Задача 5
+from figures import triangle_area
+triangle_area()
